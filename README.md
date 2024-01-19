@@ -1,2 +1,2 @@
 # MLOps
-My Machine Learning Operations (MLOps) Reference repository 
+Personal  Machine Learning Operations (MLOps) Reference repository containing Reference. 
